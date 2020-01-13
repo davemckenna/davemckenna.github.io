@@ -23,7 +23,6 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
 
 # Sidebar link settings
 sidebar_home_link:  false
@@ -33,4 +32,3 @@ sidebar_home_link:  false
                                 # to enable a separate blog link.
 permalink: /:title/
 exclude: [LICENSE.md, README.md, jekyll-theme-hydeout.gemspec]
-google_analytics: UA-156074312-1
